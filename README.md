@@ -1,3 +1,6 @@
+# all aplication preview (Line)
+https://drive.google.com/drive/u/0/folders/1Xb_xvGzgZF6vuxMhms4Ypp4D6hUqDO1o
+
 # 📱 Shayari App (iOS)
 
 A simple and elegant iOS application to explore, read, and share Gujarati Shayari. This app is designed for Shayari lovers who want a clean and smooth experience.
